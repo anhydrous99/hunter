@@ -13,11 +13,11 @@ hunter_add_version(
     PACKAGE_NAME
     cpprestsdk
     VERSION
-    v2.10.18-p1
+    v2.10.18-p2
     URL
-    https://github.com/anhydrous99/cpprestsdk/archive/v2.10.18-p1.tar.gz
+    https://github.com/anhydrous99/cpprestsdk/archive/v2.10.18-p2.tar.gz
     SHA1
-    9c3f7dd33aefb56309751b5ffaf5ea724f3821fa
+    8ee570eb53771abb8345225049b44e2f2261b749
 )
 
 hunter_cmake_args(cpprestsdk CMAKE_ARGS 
